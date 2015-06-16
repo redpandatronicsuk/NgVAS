@@ -2,7 +2,7 @@
   "name": "ng-vas",
   "description": "AngularJS Visual Analog Scale (VAS)",
   "version": "0.1.1",
-  "ignore": "demo",
+  "ignore": ["demo/", "demo/*"],
   "keywords": [
     "angular",
     "vas",
