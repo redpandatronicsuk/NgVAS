@@ -10,6 +10,7 @@
  */
  angular
  .module('ngVasApp', [
+  'ngVas',
   'color.picker',
   'ngDropdowns'
   ]);
